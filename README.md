@@ -13,8 +13,7 @@
 <p align="center">
  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dhs0603" />
 </p>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhs0603)](https://solved.ac/dhs0603/) -->
+
 
 <h2 align ="center">🌱 I’m currently learning ... <h2>
 <div align="center">
