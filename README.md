@@ -10,8 +10,9 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dohyeons&layout=compact&show_icons=ture&show_owner=ture&hide_title=ture&theme=nord" />
 </p>
 
+
 <p align="center">
- <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dhs0603" />
+ <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dhs0603"/>
 </p>
 
 
