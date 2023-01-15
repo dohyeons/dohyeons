@@ -1,10 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:91c591,100:389738&height=380&section=header&text=HELLO!&fontSize=80)
 
 
-<h3 align="center">✅ My Github Stats ✅</h3>
-<p align="center">
-<img align="center" src = "https://github-readme-stats.vercel.app/api?username=dohyeons&show_icons=true&theme=radical">
-</p>
 <h3 align="center">⭐ I've been using... ⭐</h3>
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dohyeons&layout=compact&show_icons=ture&show_owner=ture&hide_title=ture&theme=nord" />
