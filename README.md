@@ -12,10 +12,13 @@
 </p>
 
 
-<h2 align ="center">🌱 I’m currently learning ... <h2>
+<h2 align ="center">🌱 Tech <h2>
 <div align="center">
     <img src="https://img.shields.io/badge/HTML-orange?style=flat&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/Javascript-yellow?style=flat&logo=JavaScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=Styled Components&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TailwindCss-06B6D4?style=flat&logo=TailwindCss&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-blue?&style=flat&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 </div>
