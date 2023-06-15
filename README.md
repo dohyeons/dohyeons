@@ -6,10 +6,6 @@
 </p>
 
 
-<p align="center">
- <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dhs0603"/>
-</p>
-
 
 <h2 align ="center">🌱 Tech <h2>
 <div align="center">
